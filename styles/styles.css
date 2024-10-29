@@ -24,3 +24,8 @@ footer {
     background: #010f5ead;
     color: #f1f1f1;
 }
+
+div {
+    display: flex;
+    justify-content: center;
+  }
