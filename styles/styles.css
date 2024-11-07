@@ -42,3 +42,8 @@ div {
   ol, li {
     text-align: center;
   }
+
+  .image-container {
+    border: solid 2px red;
+    justify-content: center;
+  }
